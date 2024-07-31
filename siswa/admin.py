@@ -1,0 +1,6 @@
+from django.contrib import admin
+from .models import Siswa
+
+admin.site.register(Siswa)
+
+# Register your models here.
